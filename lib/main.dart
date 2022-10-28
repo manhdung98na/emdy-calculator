@@ -1,4 +1,4 @@
-import 'package:emdy_calculator/view/main_screen.dart';
+import 'package:emdy_calculator/main_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
