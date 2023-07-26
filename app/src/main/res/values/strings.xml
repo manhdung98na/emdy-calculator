@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name">BeHocToan</string>
-    <string name="first_number">Nhập số thứ nhất</string>
-    <string name="second_number">Nhập số thứ hai</string>
+    <string name="app_name">Simple calculator</string>
     <string name="result_here">Kết quả hiển thị ở đây</string>
     <string name="clear">Clear</string>
     <string name="backspace">Backspace</string>
